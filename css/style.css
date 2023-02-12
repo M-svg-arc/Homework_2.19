@@ -23,34 +23,34 @@ body {
 
 /* Global */
 .list-reset {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 /* Main */
 
 .main-content {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-    color: #fff;
-    background-color: #070217;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  color: #fff;
+  background-color: #070217;
 }
 
 .main-content-img {
-    display: inline-flex;
-    margin-bottom: 50px;
+  display: inline-flex;
+  margin-bottom: 50px;
 }
 
 .main-link {
-    display: inline-flex;
-    margin-bottom: 50px;
-    padding: 24px 49px;
+  display: inline-flex;
+  margin-bottom: 50px;
+  padding: 24px 49px;
 }
 
 .main-link:not(:last-child) {
-    margin-right: 25px;
+  margin-right: 25px;
 }
