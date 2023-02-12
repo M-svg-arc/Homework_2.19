@@ -1,92 +1,92 @@
 html {
-    box-sizing: border-box;
-  }
+  box-sizing: border-box;
+}
   
-  *,
-  *::before,
-  *::after {
-    box-sizing: inherit;
-  }
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
   
-  a {
-    color: inherit;
-    text-decoration: none;
-  }
+a {
+  color: inherit;
+  text-decoration: none;
+}
   
-  img {
-    max-width: 100%;
-  }
+img {
+  max-width: 100%;
+}
   
-  body {
-    font-family: "font", sans-serif;
-  }
+body {
+  font-family: "font", sans-serif;
+}
   
-  /* Global */
+/* Global */
   
-  p {
-    margin: 0;
-    margin-bottom: 40px;
-    width: 872px;
-  }
+p {
+  margin: 0;
+  margin-bottom: 40px;
+  width: 872px;
+}
   
-  h1,
-  h2,
-  h3 {
-    margin: 0;
-  }
+h1,
+h2,
+h3 {
+  margin: 0;
+}
   
-  /* Body */
+/* Body */
   
-  .container {
-    margin: 0 auto;
-    padding: 80px 0;
-    width: 1170px;
-  }
+.container {
+  margin: 0 auto;
+  padding: 80px 0;
+  width: 1170px;
+}
   
-  .body-title {
-    margin-bottom: 40px;
-  }
+.body-title {
+  margin-bottom: 40px;
+}
   
-  .body-paragrath {
-    margin-bottom: 40px;
-    width: 872px;
-  }
+.body-paragrath {
+  margin-bottom: 40px;
+  width: 872px;
+}
   
-  .content-markup {
-    border-radius: 20px;
-    padding: 30px;
-    background-color: #f3f3f3;
-  }
+.content-markup {
+  border-radius: 20px;
+  padding: 30px;
+  background-color: #f3f3f3;
+}
   
-  .content-markup:not(:last-child) {
-    margin-bottom: 40px;
-  }
+.content-markup:not(:last-child) {
+  margin-bottom: 40px;
+}
   
-  .content-markup .body-paragrath {
-    width: 692px;
-    margin-bottom: 10px;
-  }
+.content-markup .body-paragrath {
+  width: 692px;
+  margin-bottom: 10px;
+}
   
-  .secondary-title {
-    margin-bottom: 10px;
-  }
+.secondary-title {
+  margin-bottom: 10px;
+}
   
-  .content-list {
-    padding-left: 15px;
-  }
+.content-list {
+  padding-left: 15px;
+}
   
-  .content-link:not(:last-child) {
-    margin-bottom: 20px;
-  }
+.content-link:not(:last-child) {
+  margin-bottom: 20px;
+}
   
-  .body-img {
-    margin-bottom: 40px;
-  }
+.body-img {
+  margin-bottom: 40px;
+}
   
-  figure {
-    margin: 0;
-    display: inline-block;
-    margin-bottom: 40px;
-    width: 872px;
-  }
+figure {
+  margin: 0;
+  display: inline-block;
+  margin-bottom: 40px;
+  width: 872px;
+}
   
