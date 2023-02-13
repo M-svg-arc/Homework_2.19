@@ -22,7 +22,14 @@ body {
 }
   
 /* Global */
-  
+
+figure {
+  margin: 0;
+  display: inline-block;
+  margin-bottom: 40px;
+  width: 872px;
+}
+
 p {
   margin: 0;
   margin-bottom: 40px;
@@ -77,12 +84,5 @@ h3 {
 
 .content-link:not(:last-child) {
   margin-bottom: 20px;
-}
-  
-figure {
-  margin: 0;
-  display: inline-block;
-  margin-bottom: 40px;
-  width: 872px;
 }
   
