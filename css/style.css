@@ -41,12 +41,12 @@ body {
 }
 
 .main-content-img {
-  display: inline-flex;
+  display: inline-block;
   margin-bottom: 50px;
 }
 
 .main-link {
-  display: inline-flex;
+  display: inline-block;
   margin-bottom: 50px;
   padding: 24px 49px;
 }

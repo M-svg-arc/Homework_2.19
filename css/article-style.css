@@ -29,10 +29,19 @@ p {
   width: 872px;
 }
   
-h1,
-h2,
+h1 {
+  margin: 0;
+  margin-bottom: 40px;
+}
+
+h2 {
+  margin: 0;
+  margin-bottom: 10px;
+}
+
 h3 {
   margin: 0;
+  margin-bottom: 10px;
 }
   
 /* Body */
@@ -42,14 +51,9 @@ h3 {
   padding: 80px 0;
   width: 1170px;
 }
-  
-.body-title {
+
+.body-img {
   margin-bottom: 40px;
-}
-  
-.body-paragrath {
-  margin-bottom: 40px;
-  width: 872px;
 }
   
 .content-markup {
@@ -61,26 +65,18 @@ h3 {
 .content-markup:not(:last-child) {
   margin-bottom: 40px;
 }
-  
-.content-markup .body-paragrath {
+
+.markup-paragrath {
   width: 692px;
-  margin-bottom: 10px;
-}
-  
-.secondary-title {
   margin-bottom: 10px;
 }
   
 .content-list {
   padding-left: 15px;
 }
-  
+
 .content-link:not(:last-child) {
   margin-bottom: 20px;
-}
-  
-.body-img {
-  margin-bottom: 40px;
 }
   
 figure {
